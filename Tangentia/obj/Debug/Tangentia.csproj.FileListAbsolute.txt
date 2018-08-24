@@ -1,0 +1,7 @@
+c:\users\tangentia\source\repos\Tangentia\Tangentia\bin\Debug\Tangentia.dll
+c:\users\tangentia\source\repos\Tangentia\Tangentia\bin\Debug\Tangentia.pdb
+c:\users\tangentia\source\repos\Tangentia\Tangentia\bin\Debug\Newtonsoft.Json.dll
+c:\users\tangentia\source\repos\Tangentia\Tangentia\bin\Debug\Newtonsoft.Json.xml
+c:\users\tangentia\source\repos\Tangentia\Tangentia\obj\Debug\Tangentia.csproj.CoreCompileInputs.cache
+c:\users\tangentia\source\repos\Tangentia\Tangentia\obj\Debug\Tangentia.dll
+c:\users\tangentia\source\repos\Tangentia\Tangentia\obj\Debug\Tangentia.pdb
